@@ -1,0 +1,9 @@
+[Default]
+files = **.py
+ignore = manage.py, **/migrations/**
+
+max_line_length = 100
+use_spaces = True
+preferred_quotations = '
+
+bears = PEP8Bear, PycodestyleBear, LineLengthBear, SpaceConsistencyBear, GitCommitBear
